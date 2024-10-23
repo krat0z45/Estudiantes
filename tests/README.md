@@ -1,17 +1,10 @@
-# Proyecto ADO - Análisis y Diseño Orientado a Objetos
+## Links
 
-## Descripción
-Este proyecto es parte de la materia de Análisis y Diseño Orientado a Objetos. El objetivo es aplicar nuestros conocimientos y documentar el proceso mediante metodologias de analisis y diseño orientado a objetos.
+# Plantilla vacia
+https://docs.google.com/document/d/1bURXKjpTR9ue_EPgNc0UISTMRqri5q_hhLt76xRSmK0/edit?tab=t.0
 
-## Estructura del repositorio
-- `docs/`: Documentación del proyecto (análisis de requisitos, diseño).
-- `src/`: Código fuente del proyecto.
-- `diagrams/`: Diagramas UML (clases, casos de uso, secuencia, happy path).
-- `tests/`: Pruebas unitarias y casos de prueba.
-- `README.md`: Información general sobre el proyecto.
-- `PROGRESS.md`: Registro de avances del proyecto.
+# Plnatilla Overlaf
+https://www.overleaf.com/project/66f62d2461a47c32eb9305d6
 
-## Tecnologías utilizadas
-- Herramienta de diagramas: StarUML
-- Plataforma: GitHub
+
 
